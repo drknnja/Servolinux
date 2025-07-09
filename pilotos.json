@@ -1,0 +1,102 @@
+[
+{
+  "piloto": "Lando Norris",
+  "escuderia": "McLaren",
+  "tiempo": "1:26.549"
+},
+{
+  "piloto": "Oscar Piastri",
+  "escuderia": "McLaren",
+  "tiempo": "1:26.880"
+},
+{
+  "piloto": "Sergio Pérez",
+  "escuderia": "Red Bull",
+  "tiempo": "1:26.983"
+},
+{
+  "piloto": "Nico Hülkenberg",
+  "escuderia": "Haas",
+  "tiempo": "1:26.990"
+},
+{
+  "piloto": "Charles Leclerc",
+  "escuderia": "Ferrari",
+  "tiempo": "1:27.150"
+},
+{
+  "piloto": "Lewis Hamilton",
+  "escuderia": "Mercedes",
+  "tiempo": "1:27.202"
+},
+{
+  "piloto": "Max Verstappen",
+  "escuderia": "Red Bull",
+  "tiempo": "1:27.233"
+},
+{
+  "piloto": "Carlos Sainz",
+  "escuderia": "Ferrari",
+  "tiempo": "1:27.249"
+},
+{
+  "piloto": "Lance Stroll",
+  "escuderia": "Aston Martin",
+  "tiempo": "1:27.274"
+},
+{
+  "piloto": "George Russell",
+  "escuderia": "Mercedes",
+  "tiempo": "1:27.294"
+},
+{
+  "piloto": "Fernando Alonso",
+  "escuderia": "Aston Martin",
+  "tiempo": "1:27.358"
+},
+{
+  "piloto": "Valtteri Bottas",
+  "escuderia": "Sauber",
+  "tiempo": "1:27.433"
+},
+{
+  "piloto": "Alexander Albon",
+  "escuderia": "Williams",
+  "tiempo": "1:27.589"
+},
+{
+  "piloto": "Yuki Tsunoda",
+  "escuderia": "RB",
+  "tiempo": "1:27.629"
+},
+{
+  "piloto": "Logan Sargeant",
+  "escuderia": "Williams",
+  "tiempo": "1:27.739"
+},
+{
+  "piloto": "Esteban Ocon",
+  "escuderia": "Alpine",
+  "tiempo": "1:27.811"
+},
+{
+  "piloto": "Daniel Ricciardo",
+  "escuderia": "RB",
+  "tiempo": "1:27.827"
+},
+{
+  "piloto": "Pierre Gasly",
+  "escuderia": "Alpine",
+  "tiempo": "1:27.889"
+},
+{
+  "piloto": "Guanyu Zhou",
+  "escuderia": "Sauber",
+  "tiempo": "1:28.147"
+},
+{
+  "piloto": "Franco Colapinto",
+  "escuderia": "Alpine",
+  "tiempo": "1:28.233"
+}
+]

@@ -1,0 +1,102 @@
+[
+    {
+        "numero_auto": 4,
+        "nombre_piloto": "Lando Norris",
+        "escuderia": "McLaren"
+    },
+    {
+        "numero_auto": 81,
+        "nombre_piloto": "Oscar Piastri",
+        "escuderia": "McLaren"
+    },
+    {
+        "numero_auto": 16,
+        "nombre_piloto": "Charles Leclerc",
+        "escuderia": "Ferrari"
+    },
+    {
+        "numero_auto": 44,
+        "nombre_piloto": "Lewis Hamilton",
+        "escuderia": "Ferrari"
+    },
+    {
+        "numero_auto": 1,
+        "nombre_piloto": "Max Verstappen",
+        "escuderia": "Red Bull Racing"
+    },
+    {
+        "numero_auto": 22,
+        "nombre_piloto": "Yuki Tsunoda",
+        "escuderia": "Red Bull Racing"
+    },
+    {
+        "numero_auto": 63,
+        "nombre_piloto": "George Russell",
+        "escuderia": "Mercedes"
+    },
+    {
+        "numero_auto": 12,
+        "nombre_piloto": "Andrea Kimi Antonelli",
+        "escuderia": "Mercedes"
+    },
+    {
+        "numero_auto": 14,
+        "nombre_piloto": "Fernando Alonso",
+        "escuderia": "Aston Martin"
+    },
+    {
+        "numero_auto": 18,
+        "nombre_piloto": "Lance Stroll",
+        "escuderia": "Aston Martin"
+    },
+    {
+        "numero_auto": 10,
+        "nombre_piloto": "Pierre Gasly",
+        "escuderia": "Alpine"
+    },
+    {
+        "numero_auto": 43,
+        "nombre_piloto": "Franco Colapinto",
+        "escuderia": "Alpine"
+    },
+    {
+        "numero_auto": 23,
+        "nombre_piloto": "Alex Albon",
+        "escuderia": "Williams"
+    },
+    {
+        "numero_auto": 55,
+        "nombre_piloto": "Carlos Sainz",
+        "escuderia": "Williams"
+    },
+    {
+        "numero_auto": 3,
+        "nombre_piloto": "Liam Lawson",
+        "escuderia": "Racing Bulls"
+    },
+    {
+        "numero_auto": 40,
+        "nombre_piloto": "Isack Hadjar",
+        "escuderia": "Racing Bulls"
+    },
+    {
+        "numero_auto": 27,
+        "nombre_piloto": "Nico Hülkenberg",
+        "escuderia": "Sauber"
+    },
+    {
+        "numero_auto": 77,
+        "nombre_piloto": "Gabriel Bortoleto",
+        "escuderia": "Sauber"
+    },
+    {
+        "numero_auto": 50,
+        "nombre_piloto": "Oliver Bearman",
+        "escuderia": "Haas"
+    },
+    {
+        "numero_auto": 31,
+        "nombre_piloto": "Esteban Ocon",
+        "escuderia": "Haas"
+    }
+]
